@@ -36,8 +36,7 @@ Otherwise, the compiler will reject your code for being "mentally stable."
 ---
 
 ### 4. **README.md in Hex**  
-The entire contents of the `README.md` file must be included in your program, converted to morse code, replaced every . with 0 and every - with 1, convert it to hex using ANSI encoding, and make sure there's no whitespace because some hex converters put whitespace
-
+The entire contents of the `README.md` file must be included in your program, with any character listed here: '#', ' ', newline, "-", "`", "%", "✅",  and "⚠" removed, converted to morse code, replaced every . with 0 and every - with 1, convert it to hex using ASCII encoding, and remove all potential whitespace.
 ---
 
 ### 5. **Line Endings**  
