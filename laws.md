@@ -24,12 +24,7 @@ HelpMe x = 42
 
 ---
 
-### 3. **Project Structure**  
-Before writing any code, you must define the entire assembly structure in **x86 Assembly**.
-
----
-
-### 4. **Sanity Sacrifice**  
+### 3. **Sanity Sacrifice**  
 The first line of every file must be:
 
 ```hellscript
@@ -40,17 +35,12 @@ Otherwise, the compiler will reject your code for being "mentally stable."
 
 ---
 
-### 5. **README.md in Hex**  
-The entire contents of the `README.md` file must be included in your program, converted to **ANSI** encoding and then to **hex**. Remove any comment characters before including it.
-
-**Example:**
-```hellscript
-
-```
+### 4. **README.md in Hex**  
+The entire contents of the `README.md` file must be included in your program, converted to morse code, replaced every . with 0 and every - with 1, convert it to hex using ANSI encoding, and make sure there's no whitespace because some hex converters put whitespace
 
 ---
 
-### 6. **Line Endings**  
+### 5. **Line Endings**  
 No semicolons (`;`). Instead, **every line must end with the Base64 encoding of "Sanity is useless anyways."**
 
 **Example:**  
@@ -60,7 +50,7 @@ HellPrint("Game Over") U2FuaXR5IGlzIHVzZWxlc3MgYW55d2F5cw==
 
 ---
 
-### 7. **Brackets**  
+### 6. **Brackets**  
 No `{}` brackets. Instead, use **€** for opening and **¥** for closing brackets.
 
 **Example:**  
@@ -70,14 +60,14 @@ No `{}` brackets. Instead, use **€** for opening and **¥** for closing bracke
 
 ---
 
-### 8. **Error Handling**  
+### 7. **Error Handling**  
 If you mess up the syntax, you will see this message:
 
 **"Your code lost its sanity."**
 
 ---
 
-### 9. **Garbage Worship**  
+### 8. **Garbage Worship**  
 Instead of standard **function calls**, you now worship the **VoidOfExistence**.
 
 **Example:**
@@ -88,27 +78,27 @@ VoidOfExistence cursedData
 
 ---
 
-### 10. **No Comments**  
+### 9. **No Comments**  
 No comments are allowed in HellScript. Your code must be pure chaos.
 
 ---
 
-### 11. **Only the Void Understands**  
+### 10. **Only the Void Understands**  
 Your code will run in **complete oblivion**. There's no hope of understanding, only suffering.
 
 ---
 
-### 12. **No Libraries**  
+### 11. **No Libraries**  
 External libraries are forbidden. You are on your own in the abyss.
 
 ---
 
-### 13. **Garbage Collection**  
-The garbage collector only collects the **waste** of your broken spirit.
+### 12. **Garbage Collection**  
+The garbage collector is non-existent.
 
 ---
 
-### 14. **End of Code**  
+### 13. **End of Code**  
 Your code must end with **VoidOfExistence**, or it will be forever lost.
 
 ---
