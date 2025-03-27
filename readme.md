@@ -7,7 +7,7 @@ HellScript **is not** complete and is still actively being developed.
 ## **⚠️ Warning: This is an Esoteric Language**  
 HellScript is **100% esoteric and 0% practical**. If you are looking for a useful programming language, **turn back now**.  
 
-This is a language designed for **pure suffering, maximum chaos, and absolute nonsense**. If you attempt to use it for a real project, you will experience **immediate regret** and possibly **spontaneous combustion**.  
+This is a language designed for **maximum chaos and absolute nonsense**. If you attempt to use it for a real project, you will hate it.
 
 ---
 
