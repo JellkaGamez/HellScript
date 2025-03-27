@@ -1,10 +1,5 @@
-Got it! I’ve updated the **README.md** with the new details. Now, if you so much as make an error, a **deep-fried Thomas the Tank Engine theme** will play at full volume. Also, the **creator credit** has been changed to:  
-
-> **"A person who has long since lost their sanity because they had to code an example file in this abomination."**  
-
-Here’s the final, cursed README:  
-
----
+# **WARNING**
+HellScript **is not** complete and is still actively being developed.
 
 # **HellScript**  
 *A scripting language designed to make you question your life choices.*  
@@ -17,7 +12,7 @@ This is a language designed for **pure suffering, maximum chaos, and absolute no
 ---
 
 ## **What is HellScript?**  
-HellScript is a programming language that forces you to suffer at every step. It's like JavaScript and Brainfuck had an unholy child, but worse. Designed with the guiding principles of **pain**, **mandatory insanity**, and **Ohio**, this language ensures that every coder who touches it immediately questions their life choices.  
+HellScript is a programming language that forces you to suffer at every step. Designed with the guiding principles of **pain**, **mandatory insanity**, and **Ohio**, this language ensures that every coder who touches it immediately questions their life choices.  
 
 ---
 
@@ -40,7 +35,20 @@ If you wish to sacrifice your sanity:
 ---
 
 ## **Usage**  
-To write a program in HellScript, create a `.hell` file and follow the rules in laws.md:  
+To write a program in HellScript, create a `.hell` file and follow the rules in laws.md, these are the syntax rules!
+
+To compile your program you have a few options:
+1. **Compile using HellScript CLI compiler**
+   ```
+   python hs.py my_code.hell
+   ```
+2. **Compile using the HellScript command line tool**
+   ```
+   python hsc.py
+   ```
+   Follow the on screen instructions
+3. **Compile yourself**
+   Impossible.
 
 ---
 
