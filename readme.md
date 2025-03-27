@@ -48,7 +48,9 @@ To compile your program you have a few options:
    ```
    Follow the on screen instructions
 3. **Compile yourself**
+   ```
    Impossible.
+   ```
 
 ---
 
