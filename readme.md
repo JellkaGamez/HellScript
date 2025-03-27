@@ -12,7 +12,7 @@ This is a language designed for **maximum chaos and absolute nonsense**. If you 
 ---
 
 ## **What is HellScript?**  
-HellScript is a programming language that forces you to suffer at every step. Designed with the guiding principles of **pain**, **mandatory insanity**, and **Ohio**, this language ensures that every coder who touches it immediately questions their life choices.  
+HellScript is a programming language that is designed to be as hard to use as possible
 
 ---
 
