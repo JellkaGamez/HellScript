@@ -1,6 +1,6 @@
 # **HellScript: The Laws of Chaos**
 
-Welcome to **HellScript**, the programming language where sanity doesn't stand a chance. Follow these 15 laws, and you might survive... but probably not.
+Welcome to **HellScript**, the programming language where sanity doesn't stand a chance. Follow these 15 laws, and your program might work... but probably not.
 
 ---
 
