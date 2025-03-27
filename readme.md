@@ -21,18 +21,7 @@ HellScript is a programming language that forces you to suffer at every step. It
 
 ---
 
-## **Features**  
-✅ **Completely impractical**—any attempt to use it seriously will result in your computer catching fire.  
-✅ Every file must start with `Sanity.Sacrifice()`, or the compiler refuses to work and calls you "mentally stable."  
-✅ Uses `HelpMe` instead of `var` for variable declarations.  
-✅ Brackets are replaced with `€` (opening) and `¥` (closing).  
-✅ No semicolons. Instead, every line **must** end with the Base64 encoding of `"Go to therapy."`  
-✅ Logical operators are replaced with `"MentalBreakdown"`, `"Gaslight"`, and `"Gatekeep"`.  
-✅ Memory is manually freed with `"OfferToCthulhu"`.  
-✅ Loops use `"WhyAmIStillDoingThis"` instead of `for` or `while`.  
-✅ Multithreading is done using `"SummonDemon"`, but if you spawn too many threads, the compiler starts playing Ohio memes at full volume.  
-✅ **The entire Bee Movie script must be included in hex format.** This is not a joke.  
-✅ **If you make a single syntax error, a deep-fried Thomas the Tank Engine theme will play at full volume.**  
+✅ **If you make a single syntax error, a distorted version of Elevator Music by Kevin McLeod will play at full volume.**  
 
 ---
 
@@ -44,7 +33,8 @@ If you wish to sacrifice your sanity:
    ```  
 2. **Enter the directory:**
    ```
-   cd 
+   cd HellScript
+   ```
 2. **Regret everything.**  
 
 ---
