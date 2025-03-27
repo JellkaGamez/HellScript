@@ -84,7 +84,7 @@ No comments are allowed in HellScript. Your code must be pure chaos.
 ---
 
 ### 10. **Only the Void Understands**  
-Your code will run in **complete oblivion**. There's no hope of understanding, only suffering.
+Your code will run in **complete oblivion**. There's no hope of understanding, only void.
 
 ---
 
