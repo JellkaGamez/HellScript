@@ -60,14 +60,7 @@ No `{}` brackets. Instead, use **€** for opening and **¥** for closing bracke
 
 ---
 
-### 7. **Error Handling**  
-If you mess up the syntax, you will see this message:
-
-**"Your code lost its sanity."**
-
----
-
-### 8. **Garbage Worship**  
+### 7. **Garbage Worship**  
 Instead of standard **function calls**, you now worship the **VoidOfExistence**.
 
 **Example:**
@@ -78,27 +71,27 @@ VoidOfExistence cursedData
 
 ---
 
-### 9. **No Comments**  
+### 8. **No Comments**  
 No comments are allowed in HellScript. Your code must be pure chaos.
 
 ---
 
-### 10. **Only the Void Understands**  
+### 9. **Only the Void Understands**  
 Your code will run in **complete oblivion**. There's no hope of understanding, only void.
 
 ---
 
-### 11. **No Libraries**  
+### 10. **No Libraries**  
 External libraries are forbidden. You are on your own in the abyss.
 
 ---
 
-### 12. **Garbage Collection**  
+### 11. **Garbage Collection**  
 The garbage collector is non-existent.
 
 ---
 
-### 13. **End of Code**  
+### 12. **End of Code**  
 Your code must end with **VoidOfExistence**, or it will be forever lost.
 
 ---
