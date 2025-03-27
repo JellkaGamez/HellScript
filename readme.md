@@ -54,7 +54,7 @@ To compile your program you have a few options:
 
 ## **FAQ**  
 ### **Q: Who created this monstrosity?**  
-A: **A person who has long since lost their sanity because they had to code an example file in this abomination.**  
+A: Me.
 
 ### **Q: Is this Turing Complete?**  
 A: No. It is **Cursed Complete**.  
@@ -63,4 +63,4 @@ A: No. It is **Cursed Complete**.
 A: Absolutely not.
 
 ### **Q: Will my PC survive running HellScript?**  
-A: Maybe.
+A: Unless you have a really bad PC or your running a version where my code sucks. Then no.
